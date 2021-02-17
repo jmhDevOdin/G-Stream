@@ -1,4 +1,5 @@
 import React from 'react'
+import './Header.css'
 import { Avatar } from '@material-ui/core'
 
 function Header() {
@@ -19,7 +20,7 @@ function Header() {
             <div className='header__center'>
                 <input type='text' placeholder='Search' />
                 <div className='header__centerLogoContainer'>
-                    <i className="far fa-search"></i>
+                    <i class="fas fa-search"></i>
                 </div>
             </div>
 
@@ -29,7 +30,7 @@ function Header() {
                     <i className="fas fa-inbox"></i>
                     <i className="far fa-comment-alt"></i>
 
-                    <div className='header__rightBits'>
+                    <div className='header__rightGems'>
                         <i class="far fa-gem"></i>
                         <h4>Get Gems</h4>
                     </div>
