@@ -45,7 +45,7 @@
 }
 
 .header__center > input {
-    outline: nne;
+    outline: none;
     background-color: transparent;
     flex: 1;
     margin-left: 15px;
