@@ -1,4 +1,5 @@
 .creator {
+    padding: 10px;
     cursor: pointer;
     width: 100%;
     display: flex;
@@ -6,10 +7,19 @@
     align-items: center;
     margin-top: 15px;
     margin-bottom: 15px;
+    padding: 15px;
 }
 
 .creator:hover{
     background-color: #3e8f28;
+    /* Firefox */
+    -moz-transition: all 0.1s ease-in;
+    /* WebKit */
+    -webkit-transition: all 0.1s ease-in;
+    /* Opera */
+    -o-transition: all 0.1s ease-in;
+    /* Standard */
+    transition: all 0.1s ease-in;
 }
 
 .creator__details {

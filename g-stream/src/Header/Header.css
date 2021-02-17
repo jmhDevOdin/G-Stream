@@ -23,6 +23,20 @@
 
 .header__left > h2 {
     margin: 15px;
+    font-size: medium;
+}
+
+.header__left > h2:hover, i:hover {
+    cursor: pointer;
+    color: #3e8f28;
+        /* Firefox */
+    -moz-transition: all 0.1s ease-in;
+    /* WebKit */
+    -webkit-transition: all 0.1s ease-in;
+    /* Opera */
+    -o-transition: all 0.1s ease-in;
+    /* Standard */
+    transition: all 0.1s ease-in;
 }
 
 .header__verticalLine {

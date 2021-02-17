@@ -1,0 +1,12 @@
+.body {
+    background-color: rgb(255, 153, 0);
+    background-image: url('https://wallsdesk.com/wp-content/uploads/2016/06/Star-Citizen-High-Quality-Wallpapers.jpg');
+    flex: 1;
+    display: flex;
+    height: 100vh;
+    overflow: scroll;
+}
+
+.body__left {
+    width: 96%;
+}
