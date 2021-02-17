@@ -8,4 +8,4 @@ Hosted @ https://g-stream-904d2.web.app/
 
 ## Screenshot of web app
 
-![G-Stream video app](/images/g-stream-screenshot.png)
+![G-Stream video app](/images/g-stream-content.png)
