@@ -1,4 +1,5 @@
 import React from 'react'
+import { Avatar } from '@material-ui/core'
 
 function Header() {
     return (
@@ -32,6 +33,8 @@ function Header() {
                         <i class="far fa-gem"></i>
                         <h4>Get Gems</h4>
                     </div>
+
+                    <Avatar />
                 </div>
             </div>
         </div>
