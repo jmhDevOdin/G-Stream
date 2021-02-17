@@ -1,0 +1,25 @@
+.creator {
+    cursor: pointer;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.creator:hover{
+    background-color: #3e8f28;
+}
+
+.creator__details {
+    display: flex;
+    align-items: center;
+}
+
+.creator > div > img {
+    object-fit: contain;
+    margin-right: 5px;
+    width: 40px;
+    border-radius: 50%;
+}
