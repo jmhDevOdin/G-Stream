@@ -6,4 +6,4 @@ Streaming web platform in the vein of Twitch to demonstrate some React front end
 
 ## Screenshot of web app
 
-![screenshot](/images/g-stream-screenshot.png)
+![image](/images/g-stream-screenshot.png)
